@@ -1,0 +1,18 @@
+{
+  "name": "bot-royal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "master": "^1.0.1",
+    "ms": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Birsol",
+  "license": "MIT"
+}
